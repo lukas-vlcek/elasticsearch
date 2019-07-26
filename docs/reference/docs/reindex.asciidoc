@@ -1071,7 +1071,7 @@ POST _reindex?slices=5&refresh
 // CONSOLE
 // TEST[setup:big_twitter]
 
-You can also this verify works by:
+You can verify this works by:
 
 [source,js]
 ----------------------------------------------------------------
